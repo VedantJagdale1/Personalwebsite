@@ -1,0 +1,115 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+div{
+    background-color: #e4f9f5;
+    padding-top: 50px;   
+    width: 100%;
+}
+h1{
+    margin: 0%;
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.p{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: normal;
+   
+}
+.mountain{
+    width: 80%;
+
+}
+.mdiv{
+    padding-top: 0%
+}
+.rightcloud{
+    position: absolute;
+    right: 150px;
+    top: 150px;
+    
+}
+.leftcloud{
+    position: absolute;
+    left: 200px;  
+    top: 300px;
+
+}
+hr{
+    margin: 0px;
+}
+h4{
+    margin-bottom: 0px;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.profile{
+    height: 100px;
+}
+.skill{
+    height: 130px;
+}
+.profilediv{
+    padding-bottom: 50px;
+    
+    line-height: 2;
+    height: 300px;
+}
+.My{
+    margin-top: 0px;
+}
+.ved{
+    padding-top: 0%;
+    
+}
+.p{
+    padding-left: 10px;
+}
+.b{
+    font-size: smaller;
+}
+.Get{
+    padding-bottom: 20px;
+}
+.html{
+    
+    position: absolute;
+    height: 50px;
+    margin-top: 12%;
+    margin-left: -40%;
+    
+
+}
+.skilldiv{
+    height: 400px;
+}
+.fourst{
+    position: absolute;
+    height: 100px;
+    margin-top: 22%;
+    margin-left: -40%;
+}
+.ppt{
+    height: 200px;
+    
+}
+.pptdiv{
+    padding-top: 0%;
+}
+.info{
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 20px;
+    float: left;
+}
+.HELLO{
+    margin-top: 0%;
+}
+.touc{
+    padding-top: 20px;
+}
